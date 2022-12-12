@@ -2,53 +2,53 @@
    "files": [  
 
 {
-         "name": "Dtac-VIP01",
-         "url": "https://raw.githubusercontent.com/MaiSungVPN/TaThaNa-VPN/main/d1.ovpn"
+         "name": "TH-Dtac-01",
+         "url": "https://raw.githubusercontent.com/SHANLAYVPN/RabbitVPN/main/d1.ovpn"
       }
 ,
 {
-         "name": "Dtac-VIP02",
-         "url": "https://raw.githubusercontent.com/MaiSungVPN/TaThaNa-VPN/main/d2.ovpn"
+         "name": "TH-Dtac-02",
+         "url": "https://raw.githubusercontent.com/SHANLAYVPN/RabbitVPN/main/d2.ovpn"
       }
 ,
 {
-         "name": "Dtac-VIP03",
-         "url": "https://raw.githubusercontent.com/MaiSungVPN/TaThaNa-VPN/main/d3.ovpn"
+         "name": "TH-Dtac-03",
+         "url": "https://raw.githubusercontent.com/SHANLAYVPN/RabbitVPN/main/d3.ovpn"
       }
 ,
 {
-         "name": "Dtac-VIP04",
-         "url": "https://raw.githubusercontent.com/MaiSungVPN/TaThaNa-VPN/main/d4.ovpn"
+         "name": "TH-Dtac-04",
+         "url": "https://raw.githubusercontent.com/SHANLAYVPN/RabbitVPN/main/d4.ovpn"
       }
 ,
 {
-         "name": "Dtac-VIP05",
-         "url": "https://raw.githubusercontent.com/MaiSungVPN/TaThaNa-VPN/main/d4.ovpn"
+         "name": "TH-Dtac-05",
+         "url": "https://raw.githubusercontent.com/SHANLAYVPN/RabbitVPN/main/d5.ovpn"
       }
 ,
 {
-         "name": "True-VIP01",
-         "url": "https://raw.githubusercontent.com/MaiSungVPN/TaThaNa-VPN/main/t1.ovpn"
+         "name": "TH-True-01",
+         "url": "https://raw.githubusercontent.com/SHANLAYVPN/RabbitVPN/main/t1.ovpn"
       }
 ,
 {
-         "name": "True-VIP02",
-         "url": "https://raw.githubusercontent.com/MaiSungVPN/TaThaNa-VPN/main/t2.ovpn"
+         "name": "TH-True-02",
+         "url": "https://raw.githubusercontent.com/SHANLAYVPN/RabbitVPN/main/t2.ovpn"
       }
 ,
 {
-         "name": "True-VIP03",
-         "url": "https://raw.githubusercontent.com/MaiSungVPN/TaThaNa-VPN/main/t3.ovpn"
+         "name": "TH-True-03",
+         "url": "https://raw.githubusercontent.com/SHANLAYVPN/RabbitVPN/main/t3.ovpn"
       }
 ,
 {
-         "name": "True-VIP04",
-         "url": "https://raw.githubusercontent.com/MaiSungVPN/TaThaNa-VPN/main/t4.ovpn"
+         "name": "TH-True-04",
+         "url": "https://raw.githubusercontent.com/SHANLAYVPN/RabbitVPN/main/t4.ovpn"
       }
 ,
 {
-         "name": "True-VIP05",
-         "url": "https://raw.githubusercontent.com/MaiSungVPN/TaThaNa-VPN/main/t5.ovpn"
+         "name": "TH-True-05",
+         "url": "https://raw.githubusercontent.com/SHANLAYVPN/RabbitVPN/main/t5.ovpn"
       }
 
 

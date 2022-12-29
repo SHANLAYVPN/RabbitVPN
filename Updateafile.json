@@ -22,8 +22,13 @@
       }
 ,
 {
-         "name": "TH-Dtac-05",
+         "name": "TH-Dtac-05-Game",
          "url": "https://raw.githubusercontent.com/SHANLAYVPN/RabbitVPN/main/d5.ovpn"
+      }
+,
+{
+         "name": "TH-Dtac-06-Game",
+         "url": "https://raw.githubusercontent.com/SHANLAYVPN/RabbitVPN/main/d6.ovpn"
       }
 ,
 {
@@ -47,13 +52,18 @@
       }
 ,
 {
-         "name": "TH-True-05",
+         "name": "TH-True-05-Game",
          "url": "https://raw.githubusercontent.com/SHANLAYVPN/RabbitVPN/main/t5.ovpn"
+      }
+,
+ {
+         "name": "TH-True-06-Game",
+         "url": "https://raw.githubusercontent.com/SHANLAYVPN/RabbitVPN/main/t6.ovpn"
       }
 
 
    ],
-"message":"📁 ဖိုင်ဗားရှင်း - 2 \n📆 နောက်ဆုံးအပ်ဒိတ် - 12/12/2022\n \n📌VIP အကောင့် 🇹🇭 & 🇸🇬 🔥 \n• တစ်လမှ 50 ဘတ်\n• IOS Android PC \n• အကန့်သတ်မရှိကြိုက်ရာသုံး \n• တစ်လအပြည့်အားမှခံ\n• ဒေသလွှဲးပြောင်း - အကန့်အသတ်မရှိ✅ \n• 1 VIPကောင့် - 1 ယောက်သုံး🔒 \n• ဆက်သွယ်ရန်👤👇\nhttps://m.me/mr.saeng.messenger  \n \n• အားပေးမှုအတွက် ကျေးဇူးတင်ပါသည်💙",
+"message":"📁 ဖိုင်ဗားရှင်း - 3 \n📆 နောက်ဆုံးအပ်ဒိတ် - 12/12/2022\n \n📌VIP အကောင့် 🇹🇭 & 🇸🇬 🔥 \n• တစ်လမှ 50 ဘတ်\n• IOS Android PC \n• အကန့်သတ်မရှိကြိုက်ရာသုံး \n• တစ်လအပြည့်အားမှခံ\n• ဒေသလွှဲးပြောင်း - အကန့်အသတ်မရှိ✅ \n• 1 VIPကောင့် - 1 ယောက်သုံး🔒 \n• ဆက်သွယ်ရန်👤👇\nhttps://m.me/mr.saeng.messenger  \n \n• အားပေးမှုအတွက် ကျေးဇူးတင်ပါသည်💙",
    "title":"🔔ဖိုင်အသစ်တွေ့ရှိသည်အပ်ဒိတ်လုပ်လိုပါသလား?",
-   "version": 2
+   "version": 3
 }
